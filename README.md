@@ -1,5 +1,5 @@
 # UI-UX
-
+> This is a Fully Responsive Modern UI/UX Website in React JS.
 ### Alongside building the website, you'll learn:
 
 - **React Functional components and their reusability**
